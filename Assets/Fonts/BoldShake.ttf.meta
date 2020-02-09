@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 158be2c33af54984caf0638e1a513028
+timeCreated: 1579060402
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BoldShake
+  fontNames:
+  - BoldShake
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

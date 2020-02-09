@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c30d5ea82b9fea42b6442e303cf52e4
+timeCreated: 1579060402
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SnakeStitch
+  fontNames:
+  - SnakeStitch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
